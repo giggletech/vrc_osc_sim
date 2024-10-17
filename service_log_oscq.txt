@@ -2,3 +2,13 @@
 16/10/2024 2:15:49 PM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
 16/10/2024 2:16:42 PM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
 16/10/2024 2:16:42 PM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
+16/10/2024 2:57:32 PM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
+16/10/2024 2:57:32 PM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
+16/10/2024 3:30:12 PM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
+16/10/2024 3:30:12 PM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
+17/10/2024 11:19:21 AM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
+17/10/2024 11:19:21 AM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
+17/10/2024 11:19:36 AM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
+17/10/2024 11:19:36 AM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.
+17/10/2024 11:20:30 AM: YAML configuration file not found. Using default values: HTTP Port 6969, Service Name Giggletech
+17/10/2024 11:20:30 AM: Failed to start HTTP listener: Failed to listen on prefix 'http://localhost:6969/' because it conflicts with an existing registration on the machine.

@@ -6,3 +6,4 @@ SANDBOX
 .vscode
 *.exe
 .idea
+service_log_oscq.txt
